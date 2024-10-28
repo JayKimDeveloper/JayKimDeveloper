@@ -5,7 +5,7 @@ I like to collaborate and prefer to have diversity of thought in teams. I have 5
 
 I’m relocating to Australia in Melbourne Australia has a diverse culture and I’d like to be part of this, I think it will help me grow as a person and in turn, I can help others.
 
-Thank you for considering my application. 
+Thank you for come here. 
 Best regards, 
 Young Hyun Kim (Jay)
 
