@@ -60,6 +60,8 @@ I find beauty in simplicity, especially when it's wrapped in **dark tones**. Let
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayKimDeveloper&show_icons=true&theme=radical)
+
 ### ⚡ Fun Facts
 - 🎧 Music sets the mood — I code to **ambient beats** and chill vibes.
 - 🖤 Dark themes are my comfort zone — From IDEs to UIs, I stick to the **darker side**.
