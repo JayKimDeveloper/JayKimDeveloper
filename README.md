@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on software engineer<br>🌱 I’m currently learning cyber security
+I always say to myself that a developer is a person who builds something worthwhile. It's a cliché, but I think providing people with a greater experience and creating a better world is what developers should focus on.
+
+I like to collaborate and prefer to have diversity of thought in teams. I have 5+ years of development experience, working on building large systems, cloud and microservices architecture. I’ve been exposed to various development environments across Android and IOS.
+
+I’m relocating to Australia in Melbourne Australia has a diverse culture and I’d like to be part of this, I think it will help me grow as a person and in turn, I can help others.
+
+Thank you for considering my application. 
+Best regards, 
+Young Hyun Kim (Jay)
 
 
 ## 🌐 Socials:
